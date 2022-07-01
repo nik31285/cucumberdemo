@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="16" failures="0" name="com.cucumber.runner.RunnerTest" time="2.741" errors="0" skipped="0">
+<testsuite tests="16" failures="0" name="com.cucumber.runner.RunnerTest" time="2.378" errors="0" skipped="0">
   <properties>
     <property name="jansi.mode" value="strip"/>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
@@ -26,7 +26,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 8.1"/>
-    <property name="classworlds.conf" value="E:\Academic_21_22_sem_I\Java\Java Eclipse\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf17839998009504442723.tmp"/>
+    <property name="classworlds.conf" value="E:\Academic_21_22_sem_I\Java\Java Eclipse\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf10962344658515582046.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="java.library.path" value="C:\Users\admin\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_18.0.1.v20220515-1614\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Users/admin/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_18.0.1.v20220515-1614/jre/bin/server;C:/Users/admin/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_18.0.1.v20220515-1614/jre/bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\apache-maven-3.8.6-bin\apache-maven-3.8.6\bin;C:\Program Files\Git\cmd;E:\Academic_21_22_sem_I\Java\JARS\allure-commandline-2.9.0\allure-2.9.0\bin;C:\Users\admin\Desktop;;."/>
     <property name="jdk.debug" value="release"/>
@@ -59,20 +59,20 @@
     <property name="java.vendor.version" value="Temurin-18.0.1+10"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="com.cucumber.runner.RunnerTest" name="runScenario" time="0.298"/>
+  <testcase classname="com.cucumber.runner.RunnerTest" name="runScenario" time="0.314"/>
+  <testcase classname="com.cucumber.runner.RunnerTest" name="runScenario" time="0.032"/>
+  <testcase classname="com.cucumber.runner.RunnerTest" name="runScenario" time="0.069"/>
+  <testcase classname="com.cucumber.runner.RunnerTest" name="runScenario" time="0.019"/>
+  <testcase classname="com.cucumber.runner.RunnerTest" name="runScenario" time="0.017"/>
+  <testcase classname="com.cucumber.runner.RunnerTest" name="runScenario" time="0.034"/>
+  <testcase classname="com.cucumber.runner.RunnerTest" name="runScenario" time="0.047"/>
   <testcase classname="com.cucumber.runner.RunnerTest" name="runScenario" time="0.028"/>
-  <testcase classname="com.cucumber.runner.RunnerTest" name="runScenario" time="0.045"/>
-  <testcase classname="com.cucumber.runner.RunnerTest" name="runScenario" time="0.016"/>
   <testcase classname="com.cucumber.runner.RunnerTest" name="runScenario" time="0.036"/>
-  <testcase classname="com.cucumber.runner.RunnerTest" name="runScenario" time="0.03"/>
-  <testcase classname="com.cucumber.runner.RunnerTest" name="runScenario" time="0.016"/>
-  <testcase classname="com.cucumber.runner.RunnerTest" name="runScenario" time="0.015"/>
-  <testcase classname="com.cucumber.runner.RunnerTest" name="runScenario" time="0.007"/>
-  <testcase classname="com.cucumber.runner.RunnerTest" name="runScenario" time="0.007"/>
-  <testcase classname="com.cucumber.runner.RunnerTest" name="runScenario" time="0.009"/>
-  <testcase classname="com.cucumber.runner.RunnerTest" name="runScenario" time="0.009"/>
-  <testcase classname="com.cucumber.runner.RunnerTest" name="runScenario" time="1.976"/>
-  <testcase classname="com.cucumber.runner.RunnerTest" name="runScenario" time="0.06"/>
-  <testcase classname="com.cucumber.runner.RunnerTest" name="runScenario" time="0.064"/>
-  <testcase classname="com.cucumber.runner.RunnerTest" name="runScenario" time="0.125"/>
+  <testcase classname="com.cucumber.runner.RunnerTest" name="runScenario" time="0.024"/>
+  <testcase classname="com.cucumber.runner.RunnerTest" name="runScenario" time="0.014"/>
+  <testcase classname="com.cucumber.runner.RunnerTest" name="runScenario" time="0.01"/>
+  <testcase classname="com.cucumber.runner.RunnerTest" name="runScenario" time="1.476"/>
+  <testcase classname="com.cucumber.runner.RunnerTest" name="runScenario" time="0.093"/>
+  <testcase classname="com.cucumber.runner.RunnerTest" name="runScenario" time="0.076"/>
+  <testcase classname="com.cucumber.runner.RunnerTest" name="runScenario" time="0.089"/>
 </testsuite>
