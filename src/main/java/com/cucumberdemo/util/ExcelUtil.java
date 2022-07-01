@@ -1,15 +1,15 @@
 package com.cucumberdemo.util;
 
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
+
 import java.io.IOException;
-import java.util.Iterator;
+
 
 import org.apache.poi.xssf.usermodel.XSSFCell;
 import org.apache.poi.xssf.usermodel.XSSFRow;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
-import org.testng.annotations.Test;
+
 
 public class ExcelUtil {
 	
@@ -23,6 +23,7 @@ public class ExcelUtil {
 	    	XSSFCell cell=row.getCell(i);
 	    	data[i]=cell.getStringCellValue();
 		}
+	    workbook.close();
 	    return data;
 	}
 }
